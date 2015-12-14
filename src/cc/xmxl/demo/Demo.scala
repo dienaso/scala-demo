@@ -5,7 +5,7 @@
  * @date Nov 4, 2015 10:06:15 AM
  *
  */
-package com.epweike.demo
+package cc.xmxl.demo
 
 /**
  * @author Administrator
