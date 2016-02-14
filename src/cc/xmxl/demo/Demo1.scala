@@ -23,6 +23,7 @@ object Demo1 {
     def addOne(f: Int => Int, arg: Int) = f(arg) + 1
 
     println("hello world!")
+    //多行文本
     println("""the present string
 spans three
 lines.""")
