@@ -21,7 +21,11 @@ object Demo1 {
     //定义匿名函数，匿名函数由参数列表，箭头连接符和函数体组成
     val squareVal = (a: Int) => a * a
     def addOne(f: Int => Int, arg: Int) = f(arg) + 1
-    
+
+    println("hello world!")
+    println("""the present string
+spans three
+lines.""")
     println("square(2):" + square(2))
     println("squareWithBlock(2):" + squareWithBlock(2))
     println("squareVal(2):" + squareVal(2))
