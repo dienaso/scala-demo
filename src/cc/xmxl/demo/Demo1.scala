@@ -25,8 +25,8 @@ object Demo1 {
     println("hello world!")
     //多行文本
     println("""the present string
-spans three
-lines.""")
+			spans three
+			lines.""")
     println("square(2):" + square(2))
     println("squareWithBlock(2):" + squareWithBlock(2))
     println("squareVal(2):" + squareVal(2))
